@@ -5,19 +5,17 @@
   </a>
 </p>
 
-# Main Source/Article:
+## Main Source/Article:
 https://academic.oup.com/brain/advance-article-abstract/doi/10.1093/brain/awae417/7950911?redirectedFrom=fulltext&login=false
 
-# Data:
+## Data:
 <links to your data>
 
-# Documentation:
+## Documentation:
 <Drive link to code general workflow/pipeline> (If not too complicated, add the project's documentation directly under this topic)
 
-# List of usefull commands:
+## To run the project follow this commands:
 all command should run under project root/working-directory
-
-## To run the project run:
 ```bash 
 #install Virtualenv is - a tool to set up your Python environments
 pip install virtualenv
