@@ -17,7 +17,7 @@ https://academic.oup.com/brain/advance-article-abstract/doi/10.1093/brain/awae41
 # List of usefull commands:
 all command should run under project root/working-directory
 
-## Project init:
+## To run the project run:
 ```bash 
 #install Virtualenv is - a tool to set up your Python environments
 pip install virtualenv
