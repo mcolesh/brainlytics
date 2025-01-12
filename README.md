@@ -9,7 +9,7 @@
 Article/s link/s
 
 ## Project Data:
-Link to project raw data (first input)
+Link to project's raw data (first input)
 
 ## Project Documentation:
 Project Workflow/Pipeline (Either included here or linked to a Drive document)
