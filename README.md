@@ -1,18 +1,18 @@
 <p align="center">
   <a href="https://academic.oup.com/brain/advance-article-abstract/doi/10.1093/brain/awae417/7950911?redirectedFrom=fulltext&login=false">
-      <img width="20%" src="https://img.freepik.com/premium-photo/brain-logo-icon-human-brain-icon-creative-simple-mind-symbol-vector-illustration_1162225-51928.jpg?w=740" alt="Brianlytics" />
+      <img width="16%" src="https://img.freepik.com/premium-photo/brain-logo-icon-human-brain-icon-creative-simple-mind-symbol-vector-illustration_1162225-51928.jpg?w=740" alt="Brianlytics" />
       <h1 align="center">Brianlytics</h1>
   </a>
 </p>
 
-## Main Source/Article:
-https://academic.oup.com/brain/advance-article-abstract/doi/10.1093/brain/awae417/7950911?redirectedFrom=fulltext&login=false
+## Primary Source/Article
+article/s link/s
 
-## Data:
-<links to your data>
+## Project Data:
+link to project raw data (first input)
 
-## Documentation:
-<Drive link to code general workflow/pipeline> (If not too complicated, add the project's documentation directly under this topic)
+## Project Documentation:
+Project Workflow/Pipeline (Either included here or linked to a Drive document)
 
 ## To run the project follow this commands:
 all command should run under project root/working-directory
