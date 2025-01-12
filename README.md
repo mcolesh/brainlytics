@@ -6,16 +6,16 @@
 </p>
 
 ## Primary Source/Article
-article/s link/s
+Article/s link/s
 
 ## Project Data:
-link to project raw data (first input)
+Link to project raw data (first input)
 
 ## Project Documentation:
 Project Workflow/Pipeline (Either included here or linked to a Drive document)
 
 ## To run the project follow this commands:
-all command should run under project root/working-directory
+All command should run under project root/working-directory
 ```bash 
 #install Virtualenv is - a tool to set up your Python environments
 pip install virtualenv
